@@ -1,6 +1,6 @@
 {
   "name": "magnet2torrenturl",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "convert magnet link to torrent",
   "main": "index.js",
   "scripts": {
