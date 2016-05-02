@@ -1,4 +1,4 @@
-# magnet2torrent
+# magnet2torrenturl
 conver magnet link to torrent
 # usage
 1. you can get magnet link from website like http://www.torrentkitty.me,and search anything you like.Click detail button to get magnet link
@@ -10,3 +10,7 @@ var magnetInfo = magnet2torrent('magnet:?xt=urn:btih:A74085E6F278818C7B28A4D8BEA
 console.log(magnetInfo['name'])//name indicate the torrent name
 console.log(magnetInfo['torrentUrl']) //you can copy torrent url and paste in browser to download the torrent
 ```
+
+# develop
+1. npm install -g mocha
+2. npm test

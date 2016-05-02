@@ -1,10 +1,10 @@
 {
   "name": "magnet2torrenturl",
-  "version": "1.0.0",
-  "description": "\"convert magnet link to torrent\"",
+  "version": "2.1.1",
+  "description": "convert magnet link to torrent",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,9 @@
     "url": "https://github.com/warjiang/magnet2torrent/issues"
   },
   "homepage": "https://github.com/warjiang/magnet2torrent#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
