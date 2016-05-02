@@ -1,0 +1,25 @@
+{
+  "name": "magnet2torrenturl",
+  "version": "1.0.0",
+  "description": "\"convert magnet link to torrent\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warjiang/magnet2torrent.git"
+  },
+  "keywords": [
+    "magnet",
+    "torrent"
+  ],
+  "author": "warjiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warjiang/magnet2torrent/issues"
+  },
+  "homepage": "https://github.com/warjiang/magnet2torrent#readme",
+  "dependencies": {
+  }
+}
